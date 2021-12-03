@@ -1,5 +1,5 @@
 CMakeFiles/untitled1.dir/main.cpp.o: \
- /home/osboxes/CLionProjects/untitled1/main.cpp \
+ /home/osboxes/Documents/Projects/sem8-nm/untitled1/main.cpp \
  /usr/include/stdc-predef.h /usr/include/c++/7/iostream \
  /usr/include/x86_64-linux-gnu/c++/7/bits/c++config.h \
  /usr/include/x86_64-linux-gnu/c++/7/bits/os_defines.h \
@@ -140,4 +140,4 @@ CMakeFiles/untitled1.dir/main.cpp.o: \
  /usr/include/x86_64-linux-gnu/bits/mathcalls-helper-functions.h \
  /usr/include/x86_64-linux-gnu/bits/mathcalls.h \
  /usr/include/x86_64-linux-gnu/bits/iscanonical.h \
- /home/osboxes/CLionProjects/untitled1/integr.h
+ /home/osboxes/Documents/Projects/sem8-nm/untitled1/integr.h

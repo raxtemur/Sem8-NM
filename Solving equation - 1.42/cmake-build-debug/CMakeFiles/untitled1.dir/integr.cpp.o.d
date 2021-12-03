@@ -1,8 +1,8 @@
 CMakeFiles/untitled1.dir/integr.cpp.o: \
- /home/osboxes/CLionProjects/untitled1/integr.cpp \
+ /home/osboxes/Documents/Projects/sem8-nm/untitled1/integr.cpp \
  /usr/include/stdc-predef.h \
- /home/osboxes/CLionProjects/untitled1/integr.h /usr/include/c++/7/math.h \
- /usr/include/c++/7/cmath \
+ /home/osboxes/Documents/Projects/sem8-nm/untitled1/integr.h \
+ /usr/include/c++/7/math.h /usr/include/c++/7/cmath \
  /usr/include/x86_64-linux-gnu/c++/7/bits/c++config.h \
  /usr/include/x86_64-linux-gnu/c++/7/bits/os_defines.h \
  /usr/include/features.h /usr/include/x86_64-linux-gnu/sys/cdefs.h \

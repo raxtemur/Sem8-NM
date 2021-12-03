@@ -45,19 +45,28 @@ int countSteps(integral I, function fx, double a, double b, int m, double eps, u
     return 1;
 }
 
+//method works if it's known that 2nd derivative is bounded(better <1)
+int countSteps_midPoint(function fx, double a, double b, int m, double eps, unsigned long long *ans)
+{
+    *ans = round(sqrt(pow(abs(b-a), (m+1))/eps)) + 1;
+    return 1;
+}
+
 int Integral_midPoint(function fx, double a, double b, double eps, unsigned long long steps, double *ans)//m = 1, p = 2;
 {
     double h, sum = 0;
     double x, f;
     if (steps == 0)
     {
-        if(!countSteps(Integral_midPoint, fx, a, b, 1, eps, &steps))
+        countSteps_midPoint(fx, a, b, 1, eps, &steps);
+        /*if(!countSteps_midPoint(fx, a, b, 1, eps, &steps))
         {
             printf("internal error\n");
             return(0);
-        }
+        }*/
 
     }
+    printf("steps: %ld\n", steps);
     h = (b - a)/steps;
     x = a;
     for(int i = 0; i < steps; i++)
