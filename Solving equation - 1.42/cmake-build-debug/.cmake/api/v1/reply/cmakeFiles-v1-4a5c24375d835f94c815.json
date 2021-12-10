@@ -21,6 +21,11 @@
 		{
 			"isCMake" : true,
 			"isExternal" : true,
+			"path" : "/snap/clion/175/bin/cmake/linux/share/cmake-3.21/Modules/CMakeUnixFindMake.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
 			"path" : "/snap/clion/175/bin/cmake/linux/share/cmake-3.21/Modules/CMakeSystemSpecificInitialize.cmake"
 		},
 		{
@@ -733,8 +738,8 @@
 	"kind" : "cmakeFiles",
 	"paths" : 
 	{
-		"build" : "/home/osboxes/CLionProjects/untitled1/cmake-build-debug",
-		"source" : "/home/osboxes/CLionProjects/untitled1"
+		"build" : "/home/osboxes/Documents/Projects/sem8-nm/Solving equation - 1.42/cmake-build-debug",
+		"source" : "/home/osboxes/Documents/Projects/sem8-nm/Solving equation - 1.42"
 	},
 	"version" : 
 	{

@@ -8,8 +8,8 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/home/osboxes/Documents/Projects/sem8-nm/untitled1/integr.cpp" "CMakeFiles/untitled1.dir/integr.cpp.o" "gcc" "CMakeFiles/untitled1.dir/integr.cpp.o.d"
-  "/home/osboxes/Documents/Projects/sem8-nm/untitled1/main.cpp" "CMakeFiles/untitled1.dir/main.cpp.o" "gcc" "CMakeFiles/untitled1.dir/main.cpp.o.d"
+  "/home/osboxes/Documents/Projects/sem8-nm/Solving equation - 1.42/integr.cpp" "CMakeFiles/untitled1.dir/integr.cpp.o" "gcc" "CMakeFiles/untitled1.dir/integr.cpp.o.d"
+  "/home/osboxes/Documents/Projects/sem8-nm/Solving equation - 1.42/main.cpp" "CMakeFiles/untitled1.dir/main.cpp.o" "gcc" "CMakeFiles/untitled1.dir/main.cpp.o.d"
   )
 
 # Targets to which this target links.

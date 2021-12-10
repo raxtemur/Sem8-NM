@@ -1,7 +1,7 @@
 CMakeFiles/untitled1.dir/integr.cpp.o: \
- /home/osboxes/Documents/Projects/sem8-nm/untitled1/integr.cpp \
+ /home/osboxes/Documents/Projects/sem8-nm/Solving\ equation\ -\ 1.42/integr.cpp \
  /usr/include/stdc-predef.h \
- /home/osboxes/Documents/Projects/sem8-nm/untitled1/integr.h \
+ /home/osboxes/Documents/Projects/sem8-nm/Solving\ equation\ -\ 1.42/integr.h \
  /usr/include/c++/7/math.h /usr/include/c++/7/cmath \
  /usr/include/x86_64-linux-gnu/c++/7/bits/c++config.h \
  /usr/include/x86_64-linux-gnu/c++/7/bits/os_defines.h \

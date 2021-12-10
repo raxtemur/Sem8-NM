@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/home/osboxes/CLionProjects/untitled1/cmake-build-debug"
+			"value" : "/home/osboxes/Documents/Projects/sem8-nm/Solving equation - 1.42/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -194,7 +194,7 @@
 					"value" : "CXX compiler"
 				}
 			],
-			"type" : "STRING",
+			"type" : "FILEPATH",
 			"value" : "/usr/bin/c++"
 		},
 		{
@@ -322,7 +322,7 @@
 					"value" : "C compiler"
 				}
 			],
-			"type" : "STRING",
+			"type" : "FILEPATH",
 			"value" : "/usr/bin/cc"
 		},
 		{
@@ -679,7 +679,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/home/osboxes/CLionProjects/untitled1"
+			"value" : "/home/osboxes/Documents/Projects/sem8-nm/Solving equation - 1.42"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -1247,7 +1247,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/home/osboxes/CLionProjects/untitled1/cmake-build-debug"
+			"value" : "/home/osboxes/Documents/Projects/sem8-nm/Solving equation - 1.42/cmake-build-debug"
 		},
 		{
 			"name" : "untitled1_IS_TOP_LEVEL",
@@ -1271,7 +1271,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/home/osboxes/CLionProjects/untitled1"
+			"value" : "/home/osboxes/Documents/Projects/sem8-nm/Solving equation - 1.42"
 		}
 	],
 	"kind" : "cache",
