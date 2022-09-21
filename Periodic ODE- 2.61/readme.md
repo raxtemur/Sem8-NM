@@ -1,0 +1,1 @@
+Numetic methods task https://vk.com/doc-198157635_613765628, 2.61 - solve ODE, find periodic solution
